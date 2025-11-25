@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# FAISS index
+backend/faiss_index/
+
+# Uploaded texts
+backend/uploaded_texts/

@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+pdfplumber
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+faiss-cpu
+langchain-core
+python-multipart
+python-docx
