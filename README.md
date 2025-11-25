@@ -1,6 +1,10 @@
 # DocuMind
 
-DocuMind is an intelligent document analysis and question-answering system. It allows you to upload documents in various formats (PDF, DOCX, TXT) and then ask questions about their content. The system uses a language model to understand the documents and provide relevant answers.
+DocuMind is an intelligent document analysis and question-answering system designed to help you unlock the knowledge within your documents. It provides a seamless interface for uploading documents in various formats, including PDF, DOCX, and TXT. Once uploaded, you can engage in a conversation with your documents, asking questions and receiving intelligent, context-aware answers.
+
+At its core, DocuMind leverages the power of the Llama large language model (LLM) to comprehend the content of your documents. The system uses a Retrieval-Augmented Generation (RAG) architecture, where it first retrieves relevant passages from your documents and then uses the LLM to generate a concise and accurate answer based on the retrieved information. This approach ensures that the answers are not only intelligent but also grounded in the content of your documents.
+
+Whether you are a student, a researcher, or a professional, DocuMind can help you to quickly find the information you need from your documents, saving you time and effort.
 
 ## Features
 
